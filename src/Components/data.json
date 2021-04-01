@@ -1,0 +1,32 @@
+[
+    {
+        "id":"1",
+        "ten":"Vo van chinh",
+        "sdt": "0993323232",
+        "quyen":"1"
+    },
+    {
+        "id":"2",
+        "ten":"xuan hung",
+        "sdt": "03933232",
+        "quyen":"2"
+    },
+    {
+        "id":"3",
+        "ten":"quan nguyen",
+        "sdt": "0543323232",
+        "quyen":"2"
+    },
+    {
+        "id":"4",
+        "ten":"danh nguyen",
+        "sdt": "0423232232",
+        "quyen":"3"
+    },
+    {
+        "id":"5",
+        "ten":"MR siro",
+        "sdt": "04233232",
+        "quyen":"1"
+    }
+]
